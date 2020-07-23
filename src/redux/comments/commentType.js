@@ -1,0 +1,6 @@
+export const CommentActionType = {
+    COMMENT_START: "COMMENT_START",
+    COMMENT_SUCCESS: "COMMENT_SUCCESS",
+    COMMENT_ERROR: "COMMENT_ERROR"
+
+}

@@ -1,0 +1,8 @@
+export const userActionType = {
+
+    USER_FETCH_START: "USER_FETCH_START",
+
+    USER_FETCH_SUCCESS: "USER_FETCH_SUCCESS",
+
+    USER_FETCH_ERROR: "USER_FETCH_ERROR"
+}

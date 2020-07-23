@@ -1,0 +1,5 @@
+export const TodosTypeAction = {
+    TODOS_START: "TODOS_START",
+    TODOS_SUCCESS: "TODOS_SUCCESS",
+    TODOS_ERROR: "TODOS_ERROR"
+}
